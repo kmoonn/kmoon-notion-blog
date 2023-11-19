@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kmoon',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/Kmoon-813ef41665ba41389a8b404642156919',
   author: 'Hushan',
 
   // open graph metadata (optional)
