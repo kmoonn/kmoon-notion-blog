@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kmoon',
-  domain: 'https://www.notion.so/Kmoon-813ef41665ba41389a8b404642156919',
+  domain: 'kmoon.fun',
   author: 'Hushan',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '潜心习安全，低调求发展。',
 
   // social usernames (optional)
   twitter: '',
-  github: 'kmoonn',
+  //github: 'kmoonn',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
