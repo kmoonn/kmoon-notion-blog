@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://kmoon.notion.site/Kmoon-813ef41665ba41389a8b404642156919">
-    <img alt="Example article page" src="https://image.kmoon.fun//images/202407291443818.png" width="689">
+    <img alt="Example article page" src="https://image.kmoon.fun//images/202407291447734.png">
   </a>
 </p>
 
-# Next.js Notion Starter Kit！
+# Kmoon Personal Blog！
 
 > The perfect starter kit for building websites with Next.js and Notion.
 
