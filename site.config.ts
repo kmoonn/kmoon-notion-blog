@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Kmoon',
-  domain: 'https://shine-firewall-787.notion.site/Kmoon-813ef41665ba41389a8b404642156919',
+  domain: 'https://kmoon.notion.site/Kmoon-813ef41665ba41389a8b404642156919?pvs=4',
   author: 'Hushan',
 
   // open graph metadata (optional)
